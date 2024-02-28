@@ -21,4 +21,4 @@ Emergent Behavior: By following simple rules based on local interactions with ne
 
 The Boids algorithm has been widely used in computer graphics, artificial intelligence, robotics, and simulation systems to model and simulate collective behaviors in various applications, including video games, virtual environments, animation, robotics, and computational biology. It provides a simple yet effective framework for simulating realistic group behaviors inspired by nature.
 
-![](https://github.com/PieterES/Boids/video.gif)
+![](https://github.com/PieterES/Boids/blob/main/video.gif)
